@@ -1,7 +1,7 @@
 <h1 align="center">Hola , soy Breynner Sierra 👋</h1>
 <h3 align="center">Un gusto en conocerte soy Desarrolador de Software de varios lenguajes con experiencia en PHP, JavaScript, HTML/CSS. Me gusta practicar varios lenguajes al igual que estudiarlos y arreglar códigos.</h3>
 
-- CONTACTAR **breinnersierra879@gmail.com**
+- CONTACTARME **breinnersierra879@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
