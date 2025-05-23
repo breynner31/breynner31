@@ -1,4 +1,9 @@
-<h1 align="center">Hola , soy Breynner Sierra 👋</h1>
+<p align="center">
+  <img src="https://github.com/breynner31/breynner31/blob/main/assets/mano_saludando.gif?raw=true" height="60" />
+  <span style="font-size: 24px; margin-left: 10px;"><strong>Hola, soy Breynner Sierra</strong></span>
+</p>
+
+
 <h3 align="center">Un gusto en conocerte soy Desarrolador de Software de varios lenguajes con experiencia en PHP, JavaScript, HTML/CSS. Me gusta practicar varios lenguajes al igual que estudiarlos y arreglar códigos.</h3>
 
 - Expeiencia: 🙂 **Desarrollo de plataformas web con HTML, CSS y JavaScript. Diseño y desarrollo de bases de datos con MySQL .**
