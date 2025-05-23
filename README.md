@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/breynner31/breynner31/blob/main/assets/mano_saludando.gif?raw=true" height="60" />
-  <span style="font-size: 24px; margin-left: 10px;"><strong>Hola, soy Breynner Sierra</strong></span>
+  <span style="font-size: 40px; margin-left: 10px;"><strong>Hola, soy Breynner Sierra</strong></span>
 </p>
 
 
