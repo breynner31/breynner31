@@ -26,7 +26,7 @@
 	<a href="https://www.instagram.com/breinner_31/">
 		<img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
 	</a>
-	<a href="https://discord.com/users/TU_ID_DE_DISCORD">
+	<a href="https://discord.com/users/634516861538533376">
 		<img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/>
 	</a>
 </p>
