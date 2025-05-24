@@ -129,7 +129,6 @@
   
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breynner31&layout=compact&langs_count=10&theme=radical" />
   
-  <img src="https://raw.githubusercontent.com/breynner31/breynner31/main/assets/dinotocat.png" alt="dinotocat" width="200" />
   
 </div>
 
